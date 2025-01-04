@@ -1,7 +1,7 @@
 # Welcome, traveller
 I'm Jason, and you can find me most places with the username @jszhn. A little bit about me:
-* Currently an electrical and computer engineering student at the University of Toronto.
-* Broadly interested in compiler and programming language design, systems software, reconfigurable computing, computer architecture, image processing, and machine learning.
+* :school: Currently an electrical and computer engineering student at the University of Toronto
+* :thinking: Broadly interested in programming language design, systems programming, reconfigurable computing, and computer architecture
 
 ## Technologies
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,py,rust,matlab)](https://skillicons.dev)
